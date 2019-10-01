@@ -20,6 +20,3 @@ function figureArea(input) {
 
     console.log(area.toFixed(3));
 }
-
-figureArea(["rectangle",
-     4]);
